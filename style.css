@@ -1,0 +1,17 @@
+.jumbotron {
+    /* padding-top: 2rem; */
+    background-color: #31304D;
+}
+#galery {
+    background-color: #31304D;
+}
+#slider {
+    background-color: #31304D;
+}
+#piket {
+    text-transform: uppercase;
+}
+.galeri {
+    font-size: xx-large;
+    text-transform: uppercase;
+}
